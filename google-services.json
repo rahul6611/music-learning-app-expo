@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920083811255",
+    "project_id": "music-learning-app-expo",
+    "storage_bucket": "music-learning-app-expo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920083811255:android:90428878b1aefbc78d3632",
+        "android_client_info": {
+          "package_name": "com.vekariyarahul661.expofirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920083811255-ob7lcejblq95r17lovuun439jiehgfh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1PtiGxlCikA43lC1rBs03hO24HZf65fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920083811255-ob7lcejblq95r17lovuun439jiehgfh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

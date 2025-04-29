@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>920083811255-iup9p7e3uae01s8ba3e2c3sq2bi41lom.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.920083811255-iup9p7e3uae01s8ba3e2c3sq2bi41lom</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>920083811255-hlvpjgpb0ts9lkqup4nqttbumqrn3sak.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFS8xg3HdI5EJ83JocEfdPbhKHSyquY0M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>920083811255</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vekariyarahul661.expofirebaseauth</string>
+	<key>PROJECT_ID</key>
+	<string>music-learning-app-expo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>music-learning-app-expo.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:920083811255:ios:787c1330140d0e8a8d3632</string>
+</dict>
+</plist>
